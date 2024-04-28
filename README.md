@@ -1,5 +1,5 @@
 # Doagyn
- Doagyn é um projeto desenvolvido para um trabalho da faculdade onde o tema seria "Ajuda Social". A missão do projeto era integrar "todas" instituições de caridade sem fins lucrativos do estado de Goiás em um só lugar.
+ Doagyn é um projeto desenvolvido para um trabalho da faculdade onde o tema seria "Ajuda Social". A missão do projeto é integrar todas as instituições de caridade sem fins lucrativos do estado de Goiás em um só lugar para facilitar o contato do doador com a instituição.
 
 ## Main
 ![image](https://github.com/progmesquita/doagyn/assets/121181562/b1db9bd4-39bd-4c23-9924-18a4bac04513)
